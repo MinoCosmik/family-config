@@ -1,0 +1,25 @@
+```yaml
+name: Família Megalendários
+key: mega
+color: purple
+emblem: flag_n_06
+info:
+  logo: /static/img/badge/flag_n_06.png
+  description: >
+    ✨RESSURGINDO DAS CINZAS✨A UNIÃO ACIMA DE TUDO ✨ SÓ OS DE VERDADE✨ JUNTOS SOMOS MAIS FORTES ✨.
+  social:
+    - youtube: https://www.youtube.com/channel/UC9IPSzQ1ZSYXEkpm5c6LcJw
+    - discord: https://discord.royaleapi.com
+    - website: https://fam.royaleapi.com
+clans:
+  - name: megalendários
+    tag: 9GUJYGUC
+  - name: Megalendários 2
+    tag: Y99YLC8Q
+  - name: Megalendários 3
+    tag: YUVJ0RVU
+  - name: Megalendários 4
+    tag: Y8LCP8UY
+  - name: Megalendários 5
+    tag: LV20Y0GG
+```
